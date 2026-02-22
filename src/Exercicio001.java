@@ -1,6 +1,6 @@
 /* Exercicio 001
 *
-* Utilização de operadores aritméticos e concatenação de variáveis.
+* Utilização de operadores aritméticos, entrada e saída de dados e concatenação de variáveis.
 *
 * */
 
