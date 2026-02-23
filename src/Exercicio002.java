@@ -40,7 +40,7 @@ public class Exercicio002 {
             }
         } else if (idade <= 59) {
             System.out.println(nome + " é um adulto. E já pode dirigir e deve votar nas eleições.");
-        } else if (idade >= 59 ) {
+        } else if (idade > 59 ) {
             System.out.println(nome + " é um idoso.");
         } else {
             System.out.println("Idade inválida.");
