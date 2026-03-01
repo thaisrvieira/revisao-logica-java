@@ -1,21 +1,12 @@
 /*
  * Exercício 002 - Classificação de Idade
  *
- * Descrição: Este programa solicita o nome e a idade do usuário e realiza a classificação da faixa etária utilizando estruturas condicionais.
- * O sistema classifica em: Criança; Adolescente; Adulto; Idoso e idade inválida (caso seja menor que 0).
- * Além disso, verifica regras específicas: Se for adolescente com 16 anos ou mais, informa que já pode votar. Se for adulto, informa que pode dirigir e deve votar.
+ * Solicita nome e idade do usuário e classifica a faixa etária
+ * (criança, adolescente, adulto ou idoso), aplicando regras
+ * adicionais como permissão para voto e direção.
  *
- * Conceitos treinados:
- * - Estruturas condicionais (if, else if, else)
- * - Operadores relacionais (>, >=, <=)
- * - Operadores lógicos (&&)
- * - Encadeamento de condições
- * - Condição aninhada
- * - Entrada de dados com Scanner
- * - Boas práticas (fechamento do Scanner)
- *
- * Objetivo:
- * Reforçar a lógica de decisão e organização de fluxo condicional em Java.
+ * Treino de estruturas condicionais, operadores relacionais e lógicos,
+ * encadeamento de decisões e organização do fluxo do programa.
  */
 
 import java.util.Scanner;
